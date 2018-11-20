@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+
+.header{
+	color: yellow;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.paragraph{
+	color: yellow;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 20px;
+}
