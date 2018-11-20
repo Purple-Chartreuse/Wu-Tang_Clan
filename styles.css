@@ -14,3 +14,9 @@ body {
 	text-align: center;
 	font-size: 20px;
 }
+
+.album_cover{
+	border: 5px solid yellow;
+	width: 300px;
+	height: 300px;
+}
